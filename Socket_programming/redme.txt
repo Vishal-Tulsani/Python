@@ -1,0 +1,4 @@
+Here is the cod eof the socket programming done with help of the python programming.
+Here we have two python scripts one is senders_code.py and other is receivers_code.py.
+The senders_code.py is the file which we uses to send the message to the targeted ip address and receivers_code.py is the the destination of the message we wanted to send to.
+We have to start the receiver first than the sender one.
